@@ -42,3 +42,22 @@ justify-content: center;
 align-items: center;
 }
 
+h1{
+    font-size: 48px;
+    font-weight: bolder;
+    color: #f9faf8;
+}
+
+.content{
+    display: flex;
+    flex-direction: row;
+}
+
+.content-left, .content-right{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+
